@@ -1,0 +1,153 @@
+Script started on 2024-02-02 14:53:20-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git v[Kclone [7mhttps://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lCloning into 'linux-fundamentals-JesusGomezMon'...
+Username for 'https://github.com': JesusGomezx Mon
+Password for 'https://JesusGomezMon@github.com': 
+[1]+  Stopped                 git clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cy[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config -- gl[K[K[Kglobal user.name "JesusGomex[KzMon"
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git config-^? [K[K[K --global user.e,[Kmail "Jesusgomexmon[K[K[K[Kz[K[K[K[K[K.Gomexz[Kx[K[Kz.Monroy.[K@uabc.edu.,m[Km[K[Kmx"
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git clone [7mhttps://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lfatal: destination path 'linux-fundamentals-JesusGomezMon' already exists and is not an empty directory.
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lfatal: destination path 'linux-fundamentals-JesusGomezMon' already exists and is not an empty directory.
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ 
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cd..[K[K ..
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ cd ..[3Plsgit clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lfatal: could not create work tree dir 'linux-fundamentals-JesusGomezMon': Permission denied
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ tour[Kch worksape[K[K[Kpace w[K2 [K[K[K_2
+[?2004ltouch: cannot touch 'workspace_2': Permission denied
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ touch workspace_2
+[?2004ltouch: cannot touch 'workspace_2': Permission denied
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ add touch workspace_2[C[C[1P workspace_2[1P workspace_2[1P workspace_2[1P workspace_2[1P workspace_2d workspace_2[1P workspace_2a workspace_2d workspace_2d workspace_2
+[?2004lCommand 'add' not found, did you mean:
+  command 'pdd' from deb pdd (1.5-1)
+  command 'adb' from deb adb (1:10.0.0+r36-9)
+  command 'dd' from deb coreutils (8.32-4.1ubuntu1)
+  command 'ldd' from deb libc-bin (2.35-0ubuntu3.4)
+  command 'ad' from deb netatalk (3.1.12~ds-9ubuntu0.22.04.1)
+  command 'axd' from deb afnix (3.5.0-3)
+  command 'aid' from deb id-utils (4.6.28-20200521ss15dab)
+  command 'and' from deb and (1.2.2-4.2)
+  command 'atd' from deb at (3.2.5-1ubuntu1)
+  command 'adr' from deb adr-tools (3.0.0-2)
+  command 'tdd' from deb devtodo (0.1.20+git20200830.0ad52b0-1)
+  command 'ddd' from deb ddd (1:3.3.12-5.3build1)
+Try: sudo apt install <deb name>
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ add workspace_2[2@touch[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kgit clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lfatal: could not create work tree dir 'linux-fundamentals-JesusGomezMon': Permission denied
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ cd worrk[K[Kkpac[K[K[Kscape[K[K[Kpa[K[K[Kpace
+[?2004lbash: cd: workspace: No such file or directory
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ cd[K[Kls
+[?2004l[0m[01;34myisusgomez3[0m
+[?2004h]0;yisusgomez3@PC-Yisus: /home[01;32myisusgomez3@PC-Yisus[00m:[01;34m/home[00m$ cd yisusco[K[Kgomex[Kz2[K3
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cd [K[K[Kpwd
+[?2004l/home/yisusgomez3
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cd ñinux[K[K[K[K[Klinuz[Kx-fui[Kndamentals [K-JesusGomex[Kzx[KMon
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ mkdir BashPrwact[K[K[K[Kacticva[K[Ka[K[K[K[Ktica [K
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ ls
+[?2004l[0m[01;34mBashPractica[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ toucxh[K[Kh b[KBahs [K[K[Ksh [KPractiva[K[Kv[K[Kica/prueba.txt
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ ls BashPractivca[K[Kca[K[K[Kca/
+[?2004lprueba.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ echo "Hols[Ka mundo[Kd[Ko" . [K[K.[K[K .[K> BashPras[Kctivc[K[Kca [K&[K?[K/prueba.t.[Kx.[Kt
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ chmod 644 Bahs[K[Ksj[KhPras[Ka[Kcticv[Ka?[K/[Kpr[K[K/prueba.txt
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ ls /1 BashPrt[Kra[K[Kactica/prueba.tz[Kxt
+[?2004lls: cannot access '/1': No such file or directory
+BashPractica/prueba.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ ls /1 BashPractica/prueba.txt[C[C[C[1P[1@-
+[?2004lBashPractica/prueba.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ echo @[K{[K"H[Kecho Hola, el scritp se ha ejecutado" > scripto[K?[K_saludo.sh
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ chmod -=[K[K=[K+x svripto[K.[K_saludo.sh
+[?2004lchmod: cannot access 'svript_saludo.sh': No such file or directory
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ chmod +x svript_saludo.sh[1Pript_saludo.shcript_saludo.sh
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ .&[K?[K/scripto[K_salyu[Kud[K[K[Kudo.sh
+[?2004lHola, el scritp se ha ejecutado
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ exit
+[?2004lexit
+There are stopped jobs.
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ ls
+[?2004l[0m[01;34mBashPractica[0m  [01;32mscript_saludo.sh[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ cd ..
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git add 
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git add [C,[K.session_li[Kog.txt
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ .git
+[?2004lCommand '.git' not found, did you mean:
+  command 'dgit' from deb dgit (9.15)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.10)
+  command 'qgit' from deb qgit (2.10-2)
+  command 'jgit' from deb jgit-cli (4.11.9-1)
+Try: sudo apt install <deb name>
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ .gitgit add .session_log.txt.git[Kgit add .session_log.txt[Kls[Kcd ..[3Plsexit./script_saludo.shchmod +x script_saludo.shvript_saludo.shecho "echo Hola, el scritp se ha ejecutado" > script_saludo.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[33Pls -1 BashPractica/prueba.txt/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@chmod 644[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10@echo "Hola mundo" >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Pls BashPractica/touch BashPractica/prueba.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kmkdir BashPracticacd linux-fundamentals-JesusGomezMon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[K[1Plscd yisusgomez3ls[Kcd workspacegit clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd workspace_2[K[2@touch[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K[3Plscd ..git clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git
+[?2004lfatal: destination path 'linux-fundamentals-JesusGomezMon' already exists and is not an empty directory.
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ git clone https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.git[Kgit add .session_log.txt[K.session_log.txt[K
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ sessiom[Km[Kn_log.txtesession_log.txtcsession_log.txthsession_log.txtosession_log.txt session_log.txt
+[?2004lsession_log.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ echo session_log.txt\[K
+[?2004lsession_log.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ echo session_log.txt[Kls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ lini[K[K[K[Kcp session_log.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd linux/[K-fundamentald[Ks-JesusGomex[Kx[KzMon
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ pdw
+[?2004lCommand 'pdw' not found, did you mean:
+  command 'pfw' from deb pftools (3.2.11-2)
+  command 'cdw' from deb cdw (0.8.1-2)
+  command 'pdl' from deb pdl (1:2.074-1)
+  command 'pdb' from deb python-dev-is-python3 (3.9.2-2)
+  command 'pmw' from deb pmw (1:4.50-1)
+  command 'pwd' from deb coreutils (8.32-4.1ubuntu1)
+  command 'pdd' from deb pdd (1.5-1)
+  command 'psw' from deb wise (2.4.1-23)
+  command 'pda' from deb speech-tools (1:2.5.0-12)
+  command 'pd' from deb puredata-core (0.52.1+ds0-1)
+Try: sudo apt install <deb name>
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ pwd
+[?2004l/home/yisusgomez3/linux-fundamentals-JesusGomezMon
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ cd ..
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cd ..l;[K[K[K[K[K[K[Kls
+[?2004l[0m[01;34mlinux-fundamentals-JesusGomezMon[0m  session_log.txt  [01;34mworkspace[0m
+[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cp session?log[K[K[K[K[Kn_log.txt [7m/home/yisusgomez3/linux-fundamentals-JesusGomezMon[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/yisusgomez3/linux-fundamentals-JesusGomezMon
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~[01;32myisusgomez3@PC-Yisus[00m:[01;34m~[00m$ cp session_log.txt /home/yisusgomez3/linux-fundamentals-JesusGomezMon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcp session_log.txt /home/yisusgomez3/linux-fundamentals-JesusGomezMon[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..[2Ppwddwcd linux-fundamentals-JesusGomezMon
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git add
+[?2004lNothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Turn this message off by running[m
+[33mhint: "git config advice.addEmptyPathspec false"[m
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git add .
+[?2004l[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git commint[K[K[Kt[Kit -m "J[KEjercicios perrones de Linuc[Kx{[K"
+[?2004l[master (root-commit) 3f1b3c5] Ejercicios perrones de Linux
+ 3 files changed, 90 insertions(+)
+ create mode 100644 BashPractica/prueba.txt
+ create mode 100755 script_saludo.sh
+ create mode 100644 session_log.txt
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git push origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git'
+[m[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git push origin main[K[Kster'[K
+[?2004lUsername for 'https://github.com': JesusGomexm  zmon   MOn
+Password for 'https://JesusGomezMOn@github.com': 
+[2]+  Stopped                 git push origin master
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git push origin master
+[?2004lUsername for 'https://github.com': Jwe  e esusGp,e   p omezmon   Mon
+Password for 'https://JesusGomezMon@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git/'
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git push origin master
+[?2004lUsername for 'https://github.com': JesusGomex zMOn  on
+Password for 'https://JesusGomezMon@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/UABC-OCLE/linux-fundamentals-JesusGomezMon.git/'
+[?2004h]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ git push origin master[2Pincommit -m "Ejercicios perrones de Linux"add .[K[Kcd linux-fundamentals-JesusGomezMonp session_log.txt /home/yisusgomez3/linux-fundamentals-JesusGomezMon[A]0;yisusgomez3@PC-Yisus: ~/linux-fundamentals-JesusGomezMon[01;32myisusgomez3@PC-Yisus[00m:[01;34m~/linux-fundamentals-JesusGomezMon[00m$ [C[28Pd linux-fundamentals-JesusGomezMon
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
